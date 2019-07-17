@@ -1,0 +1,6 @@
+﻿  kimatu2.cpp
+c:\program files (x86)\windows kits\8.1\include\um\wincon.h(118): warning C4005: 'MOUSE_MOVED': マクロが再定義されました。
+  f:\3春\プログラミング言語c２\kimatu2\pdcurseslib\include\curses.h(189): note: 'MOUSE_MOVED' の以前の定義を確認してください
+f:\3春\プログラミング言語c２\kimatu2\kimatu2\method.h(254): warning C4101: 's': ローカル変数は 1 度も使われていません。
+  kimatu2.vcxproj -> F:\3春\プログラミング言語C２\kimatu2\Debug\kimatu2.exe
+  kimatu2.vcxproj -> F:\3春\プログラミング言語C２\kimatu2\Debug\kimatu2.pdb (Full PDB)
